@@ -11,7 +11,7 @@ import java.io.*;
 import java.util.ArrayList;
 
 public class Main{
-   public final String URL="E:\\Java\\SRC\\softwareTest3\\src\\main\\resources\\";
+   public final String URL=System.getProperty("user.dir")+"/src/main/resources/";
     public  static String FILE;
     public static void main(String[]args){
        for(int i=0;i<args.length;i++){
