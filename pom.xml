@@ -123,7 +123,7 @@
               <testEnvironment>${FILENAME}</testEnvironment>
             </systemPropertyVariables>
             <suiteXmlFiles>
-              <suiteXmlFile>/src/main/test/test.xml</suiteXmlFile>
+              <suiteXmlFile>./src/main/test/test.xml</suiteXmlFile>
             </suiteXmlFiles>
           </configuration>
         </plugin>
