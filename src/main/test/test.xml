@@ -5,7 +5,7 @@
     </parameters>
     <test name="baidutest">
         <classes>
-            <class name="testClass" />
+            <class name="TestClass" />
         </classes>
     </test>
     <usedefaultlisteners name="false" />
