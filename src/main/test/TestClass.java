@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import java.io.*;
 import java.util.ArrayList;
-    class TestClass {
+public class TestClass {
         public  static final String URL=System.getProperty("user.dir")+"/src/main/resources/";
         public  static String FILE;
         @Test
