@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="suite1"  preserve-order="true">
     <parameters>
-        <parameter name="FILENAME" value="test.xls"/>
+        <parameter name="FILENAME" value="${FILENAME}"/>
     </parameters>
     <test name="baidutest">
         <classes>
